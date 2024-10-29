@@ -1,8 +1,10 @@
-<div>
- <img src-"https://www.canva.com/design/DAF-Dhu7A3c/zy0RO9sXzbA0gwneP7n6GA/watch?embed" />
-</div>
+
 
 <h1>Lukhosi Mihlali Solwandle</h1>
+
+<div styele="border:solid red 1px">
+ 
+</div>
 
 <!--
 **Solwandle-Mihlali/Solwandle-Mihlali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
