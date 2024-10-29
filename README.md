@@ -2,7 +2,7 @@
 
 <h1>Lukhosi Mihlali Solwandle</h1>
 
-<div styele="border:solid red 1px">
+<div style="border:solid red 1px , width:100% , height :5vh">
  
 </div>
 
