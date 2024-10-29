@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1>Lukhosi Mihlali Solwandle</h1>
+
 <!--
 **Solwandle-Mihlali/Solwandle-Mihlali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
