@@ -1,26 +1,7 @@
-
-
 <h1>Lukhosi Mihlali Solwandle</h1>
 
-<div style="border:solid red 1px , width:100% , height :5vh">
- <button style="background:red">
-  Linkedin 
- </button>
+<div style="border: solid red 1px; width: 100%; height: 5vh;">
+  <button style="background: red; height: 5vh; width: 20%;">
+    Linkedin 
+  </button>
 </div>
- 
-</div>
-
-<!--
-**Solwandle-Mihlali/Solwandle-Mihlali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
